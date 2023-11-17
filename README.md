@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-你好，我是Stardust
+This is Stardust.
 
 
+I'm working on genetics researches and will publish some of my works here.
 
 <!--
 **Stardust3939/Stardust3939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
